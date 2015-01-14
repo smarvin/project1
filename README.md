@@ -1,2 +1,2 @@
-# project1
-Repo for github training
+# This is my project1 repo
+This repo was created for github training.
